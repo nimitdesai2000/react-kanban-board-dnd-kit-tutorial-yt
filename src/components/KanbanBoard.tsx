@@ -160,8 +160,8 @@ function KanbanBoard() {
             }}
             className="
       h-[60px]
-      w-[350px]
-      min-w-[350px]
+      w-[600px]
+      min-w-[600px]
       cursor-pointer
       rounded-lg
       bg-mainBackgroundColor
